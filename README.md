@@ -6,6 +6,8 @@
 <br></br>
 
 <p>I am a web developer, please check out some of my projects below:
+ 
+https://adminera.github.io/ <---------------- All of my projects are hosted through this directory!
 
 https://adminera.github.io/Recipes-Website/
 </p>

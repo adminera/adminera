@@ -7,5 +7,12 @@
 <br></br>
 ![adminera's GitHub stats](https://github-readme-stats.vercel.app/api?username=adminera&show_icons=true&theme=tokyonight)
 
+<br></br>
+
+<p>I am a web developer, please check out some of my projects below!:
+
+https://adminera.github.io/Recipes-Website/
+</p>
+
 
 

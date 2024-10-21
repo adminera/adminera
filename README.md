@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm adminera</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I'm+adminera%2C+here+is+my+github!" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate software and security engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adminera&label=Profile%20views&color=0e75b6&style=flat" alt="adminera" /> </p>

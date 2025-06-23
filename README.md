@@ -13,7 +13,15 @@
 
 I primarily use Burp Suite alongside custom scripts for reconnaissance and automation.
 
-![Static Badge](https://img.shields.io/badge/burpsuite-he?style=for-the-badge&logo=burpsuite&logoColor=orange&color=blue)
+![Static Badge](https://img.shields.io/badge/burpsuite-he?style=for-the-badge&logo=portswigger&color=blue)
+
+
+
+I am currently perfecting my web vulnerabilities knowledge
+
+![Static Badge](https://img.shields.io/badge/owasp-he?style=for-the-badge&logo=owasp&logoColor=black&color=dark%20green)
+
+
 
 My strongest languages for development and scripting:
 

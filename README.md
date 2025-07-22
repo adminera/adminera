@@ -4,7 +4,7 @@
   </a>
 </h1>
 <ul>
-<li><p>I'm a cybersecurity enthusiast specializing in 0-day research and bug bounty hunting, with a focus on securing web applications.</p> </li>
+<li><p>I'm a cybersecurity enthusiast specializing in bug bounty hunting, with a focus on securing web applications.</p> </li>
 
 ![Static Badge](https://img.shields.io/badge/hackerone-he?style=for-the-badge&logo=hackerone&logoColor=white&color=black)
 ![Static Badge](https://img.shields.io/badge/bugcrowd-he?style=for-the-badge&logo=bugcrowd&logoColor=orange&color=white)

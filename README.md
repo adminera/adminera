@@ -15,11 +15,11 @@
 
 ![Static Badge](https://img.shields.io/badge/burpsuite-he?style=for-the-badge&logo=portswigger&color=blue)
 
-<li> <p> I am currently perfecting my web vulnerabilities knowledge. </p></li>
+<li> <p> I am currently perfecting my web vulnerabilities knowledge such as XSS, Race conditions, SSRF, SQLI, HTTP request smuggling and more </p></li>
 
 ![Static Badge](https://img.shields.io/badge/owasp-he?style=for-the-badge&logo=owasp&logoColor=black&color=dark%20green)
 
-<li><p> My strongest languages for development and scripting:  </p></li>
+<li><p> I am also Full-Stack developer and my strongest languages for development and scripting are:  </p></li>
 
 ![Static Badge](https://img.shields.io/badge/python-he?style=for-the-badge&logo=python&logoColor=green&color=blue%20)
 ![Static Badge](https://img.shields.io/badge/javascript-he?style=for-the-badge&logo=javascript&logoColor=black&color=yellow)

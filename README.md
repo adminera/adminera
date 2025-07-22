@@ -18,6 +18,8 @@
 <li> <p> I'm sharpening my skills in web vulnerabilities, including XSS, race conditions, SSRF, SQL injection, HTTP request smuggling, + more. </p></li>
 
 ![Static Badge](https://img.shields.io/badge/owasp-he?style=for-the-badge&logo=owasp&logoColor=black&color=dark%20green)
+![Static Badge](https://img.shields.io/badge/portswigger-he?style=for-the-badge&logo=portswigger&color=darkblue)
+
 
 <li><p> I am also Full-Stack developer and my strongest languages for development and scripting are:  </p></li>
 

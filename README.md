@@ -15,7 +15,7 @@
 
 ![Static Badge](https://img.shields.io/badge/burpsuite-he?style=for-the-badge&logo=portswigger&color=blue)
 
-<li> <p> I am currently perfecting my web vulnerabilities knowledge such as XSS, Race conditions, SSRF, SQLI, HTTP request smuggling and more </p></li>
+<li> <p> I'm sharpening my skills in web vulnerabilities, including XSS, race conditions, SSRF, SQL injection, HTTP request smuggling, + more. </p></li>
 
 ![Static Badge](https://img.shields.io/badge/owasp-he?style=for-the-badge&logo=owasp&logoColor=black&color=dark%20green)
 

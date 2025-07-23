@@ -32,9 +32,9 @@
 ![Static Badge](https://img.shields.io/badge/bash-he?style=for-the-badge&logo=bash&logoColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/sql-he?style=for-the-badge&logo=sql&logoColor=yellow&color=darkblue)
 
-<li><p> Projects my company <a href="https://github.com/DarkSyst">(DarkSyst)</a> has worked on: </p></li>
+<li><p> Projects my company <a href="https://github.com/DarkSyst">DarkSyst</a> has worked on: </p></li>
 
-https://sorcery.ie
+- <a href="https://sorcery.ie">SorceryIE</a> (CyberSecurity and Software)
 
 
 <li><p> Feel free to connect with me to discuss coding projects, bug hunting, or cybersecurity! </p></li>

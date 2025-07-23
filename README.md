@@ -37,7 +37,7 @@
 https://sorcery.ie
 
 
-<li><p> Feel free to connect with me to discuss cybersecurity, bug hunting, or coding projects! </p></li>
+<li><p> Feel free to connect with me to discuss coding projects, bug hunting, or cybersecurity! </p></li>
 </ul>
 
 

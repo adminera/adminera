@@ -32,6 +32,11 @@
 ![Static Badge](https://img.shields.io/badge/bash-he?style=for-the-badge&logo=bash&logoColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/sql-he?style=for-the-badge&logo=sql&logoColor=yellow&color=darkblue)
 
+<li><p> Projects my company has worked on: </p></li>
+
+https://sorcery.ie
+
+
 <li><p> Feel free to connect with me to discuss cybersecurity, bug hunting, or coding projects! </p></li>
 </ul>
 

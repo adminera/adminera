@@ -36,16 +36,6 @@
 ![Static Badge](https://img.shields.io/badge/bash-he?style=for-the-badge&logo=gnubash&logoColor=white&color=grey)
 ![Static Badge](https://img.shields.io/badge/sql-he?style=for-the-badge&logo=postgresql&logoColor=yellow&color=darkblue)
 
-<li><p> Defensive Security Tools / Blue Teaming: </p></li>
-
-![Static Badge](https://img.shields.io/badge/splunk-he?style=for-the-badge&logo=splunk&logoColor=white&color=black)
-![Static Badge](https://img.shields.io/badge/openvas-he?style=for-the-badge&logo=greenbone&logoColor=white&color=green)
-![Static Badge](https://img.shields.io/badge/elastic%20stack-he?style=for-the-badge&logo=elastic&logoColor=white&color=yellow)
-![Static Badge](https://img.shields.io/badge/wireshark-he?style=for-the-badge&logo=wireshark&logoColor=white&color=blue)
-![Static Badge](https://img.shields.io/badge/networkminer-he?style=for-the-badge&color=grey)
-![Static Badge](https://img.shields.io/badge/snort-he?style=for-the-badge&color=red)
-![Static Badge](https://img.shields.io/badge/semgrep-he?style=for-the-badge&logo=semgrep&logoColor=white&color=purple)
-
 
 <li><p> Feel free to connect with me to discuss coding projects, bug hunting, or cybersecurity! </p></li>
 </ul>

@@ -15,17 +15,13 @@
 
 ![Static Badge](https://img.shields.io/badge/burpsuite-he?style=for-the-badge&logo=portswigger&color=darkblue)
 ![Static Badge](https://img.shields.io/badge/owasp%20zap-he?style=for-the-badge&logo=owasp&logoColor=white&color=orange)
-![Static Badge](https://img.shields.io/badge/ghidra-he?style=for-the-badge&color=red)
-![Static Badge](https://img.shields.io/badge/dnspy-he?style=for-the-badge&color=purple)
-![Static Badge](https://img.shields.io/badge/x64dbg-he?style=for-the-badge&color=grey)
 
 
-<li> <p> I'm sharpening my skills in web vulnerabilities, including XSS, Race Conditions, SSRF, CSRF, SQL injection, HTTP request smuggling, + more. Alongside web security, I am also actively exploring reverse engineering. </p></li>
+<li> <p> I'm sharpening my skills in web vulnerabilities, including XSS, Race Conditions, SSRF, CSRF, SQL injection, HTTP request smuggling, + more. Alongside web security.</p></li>
 
 ![Static Badge](https://img.shields.io/badge/owasp-he?style=for-the-badge&logo=owasp&logoColor=black&color=dark%20green)
 ![Static Badge](https://img.shields.io/badge/portswigger-he?style=for-the-badge&logo=portswigger&color=white)
 ![Static Badge](https://img.shields.io/badge/tryhackme-he?style=for-the-badge&logo=tryhackme&logoColor=white&color=red)
-![Static Badge](https://img.shields.io/badge/opensecurity2-he?style=for-the-badge&color=blue)
 
 <li><p> I am also a Full-Stack developer and my strongest languages for development and scripting are:  </p></li>
 

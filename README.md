@@ -11,13 +11,13 @@
 ![Static Badge](https://img.shields.io/badge/meta-he?style=for-the-badge&logo=meta&logoColor=white&color=blue)
 ![Static Badge](https://img.shields.io/badge/google-he?style=for-the-badge&logo=google&logoColor=orange&color=white)
 
-<li><p> I primarily use Burp Suite and OWASP ZAP alongside custom scripts for reconnaissance and automation, and I am currently learning reverse engineering tools. </p></li>
+<li><p> I primarily use Burp Suite alongside custom scripts for reconnaissance and automation </p></li>
 
 ![Static Badge](https://img.shields.io/badge/burpsuite-he?style=for-the-badge&logo=portswigger&color=darkblue)
 ![Static Badge](https://img.shields.io/badge/owasp%20zap-he?style=for-the-badge&logo=owasp&logoColor=white&color=orange)
 
 
-<li> <p> I'm sharpening my skills in web vulnerabilities, including XSS, Race Conditions, SSRF, CSRF, SQL injection, HTTP request smuggling, + more. Alongside web security.</p></li>
+<li> <p> I'm sharpening my skills in web vulnerabilities, including XSS, Race Conditions, SSRF, CSRF, SQL injection, HTTP request smuggling, + more. </p></li>
 
 ![Static Badge](https://img.shields.io/badge/owasp-he?style=for-the-badge&logo=owasp&logoColor=black&color=dark%20green)
 ![Static Badge](https://img.shields.io/badge/portswigger-he?style=for-the-badge&logo=portswigger&color=white)

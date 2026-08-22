@@ -37,5 +37,5 @@
 ![Static Badge](https://img.shields.io/badge/sql-he?style=for-the-badge&logo=postgresql&logoColor=yellow&color=darkblue)
 
 
-<li><p> Please visit my website to see my portfolio and the services I offer! </p></li>
+<li><p> Please visit my <a href="https://www.octobug.uk">website</a> to see my portfolio and the services I offer! </p></li>
 </ul>

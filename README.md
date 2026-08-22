@@ -37,5 +37,5 @@
 ![Static Badge](https://img.shields.io/badge/sql-he?style=for-the-badge&logo=postgresql&logoColor=yellow&color=darkblue)
 
 
-<li><p> Feel free to connect with me to discuss coding projects, bug hunting, or cybersecurity! </p></li>
+<li><p> Please visit my website to see my portfolio and the services I offer! </p></li>
 </ul>
